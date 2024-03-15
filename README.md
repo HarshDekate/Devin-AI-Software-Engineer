@@ -30,7 +30,7 @@ Devin represents a remarkable advancement in AI technology, promising to streaml
 
 *Contact Information:*
 
-For inquiries, feedback, or collaboration opportunities, please contact [insert contact details].
+For inquiries, feedback, or collaboration opportunities, please contact Cognition Labs.
 
 *License:*
 
